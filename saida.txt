@@ -1,6 +1,0 @@
-GPS latitude ref: S
-GPS latitude: 23°3'3.75" S
-GPS longitude ref: W
-GPS longitude: 47°1'18.12" W
-GPS altitude ref: 
-GPS altitude: 698.0 m
